@@ -1,3 +1,4 @@
+
 # NumPy Quiz Practice Pack
 ### 60 Real-World Questions — Easy · Medium · Hard
 
@@ -195,3 +196,4 @@ After completing this quiz pack you will be well prepared for Pandas because:
 
 *NumPy Quiz Practice Pack — 60 questions · 20 Easy · 20 Medium · 20 Hard*
 *Themes: Call Centre · Hotel · University · Grocery · E-commerce · Gym · Restaurant · Taxi · YouTube · Football · Travel · Salary · Support · Stock*
+
